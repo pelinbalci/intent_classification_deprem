@@ -4,6 +4,3 @@ This project contains the studies which make intent classification over ~ 10k tw
 
 
 İçerik sınıflandırılması için yaklaşık 10k tweet üzerinden yapılan çalışmaları içermektedir. 
-
-
-
